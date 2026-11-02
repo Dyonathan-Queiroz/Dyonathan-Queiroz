@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Concluindo o curso **Técnico em Desenvolvimento de Sistemas**
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**
 - 🏢 Trabalho com **suporte de TI** no Supermercado Gavião, em Boa Vista – RR
 - 🚀 Desenvolvi **dois sistemas web que rodam em produção** na empresa: sistema de logística e controle de gastos de materias que não são de revenda 
 - 🗄️ Lido diariamente com o **ERP WinThor (TOTVS/Oracle)**, o que me deu uma base prática em **SQL e Oracle**
